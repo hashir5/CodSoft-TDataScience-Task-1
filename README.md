@@ -1,2 +1,2 @@
-# CodSoft-TDataScience-Task-1
+# CodSoft-DataScience-Task-1
 CodSoft Data Science Virtual Internship Task-1
